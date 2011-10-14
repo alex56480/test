@@ -139,7 +139,7 @@ $gitphp_conf['javascript'] = true;
  * Features
  */
 
-/*
+/*ff
  * compat
  * Set this to true to turn on compatibility mode.  This will cause
  * GitPHP to rely more on the git executable for loading data,
