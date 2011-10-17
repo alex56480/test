@@ -19,7 +19,7 @@
 throw new Exception('The defaults file should not be used as your config.');
 
 
-/*********************************************************
+/********************************************************     *
  * Projects
  */
 
