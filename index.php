@@ -7,4 +7,6 @@ if(is_dir("C:\Program Files (x86)\Git\bin  ")){
 }else{
 	echo "Is not dir!!  ";
 }
+
+echo 'Testing slimJim!';
 ?>
